@@ -182,7 +182,7 @@ jupyter notebook
 
 4. Run
 
-HR_Analytics_Analysis.ipynb
+HR_Analytics.ipynb
 
 ---
 
