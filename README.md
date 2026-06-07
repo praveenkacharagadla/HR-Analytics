@@ -162,7 +162,7 @@ HR-Analytics-Employee-Attrition-Analysis/
 │
 ├── charts/images.png
 │
-├── HR_Analytics_Analysis.ipynb
+├── HR_Analytics.ipynb
 ├── README.md
 └── requirements.txt
 
